@@ -1,0 +1,16 @@
+C:\FilmoviZaglaviq\FilmoviZaglaviq\bin\Debug\net8.0-windows\FilmoviZaglaviq.exe
+C:\FilmoviZaglaviq\FilmoviZaglaviq\bin\Debug\net8.0-windows\FilmoviZaglaviq.deps.json
+C:\FilmoviZaglaviq\FilmoviZaglaviq\bin\Debug\net8.0-windows\FilmoviZaglaviq.runtimeconfig.json
+C:\FilmoviZaglaviq\FilmoviZaglaviq\bin\Debug\net8.0-windows\FilmoviZaglaviq.dll
+C:\FilmoviZaglaviq\FilmoviZaglaviq\bin\Debug\net8.0-windows\FilmoviZaglaviq.pdb
+C:\FilmoviZaglaviq\FilmoviZaglaviq\obj\Debug\net8.0-windows\FilmoviZaglaviq.Form1.resources
+C:\FilmoviZaglaviq\FilmoviZaglaviq\obj\Debug\net8.0-windows\FilmoviZaglaviq.csproj.GenerateResource.cache
+C:\FilmoviZaglaviq\FilmoviZaglaviq\obj\Debug\net8.0-windows\FilmoviZaglaviq.GeneratedMSBuildEditorConfig.editorconfig
+C:\FilmoviZaglaviq\FilmoviZaglaviq\obj\Debug\net8.0-windows\FilmoviZaglaviq.AssemblyInfoInputs.cache
+C:\FilmoviZaglaviq\FilmoviZaglaviq\obj\Debug\net8.0-windows\FilmoviZaglaviq.AssemblyInfo.cs
+C:\FilmoviZaglaviq\FilmoviZaglaviq\obj\Debug\net8.0-windows\FilmoviZaglaviq.csproj.CoreCompileInputs.cache
+C:\FilmoviZaglaviq\FilmoviZaglaviq\obj\Debug\net8.0-windows\FilmoviZaglaviq.dll
+C:\FilmoviZaglaviq\FilmoviZaglaviq\obj\Debug\net8.0-windows\refint\FilmoviZaglaviq.dll
+C:\FilmoviZaglaviq\FilmoviZaglaviq\obj\Debug\net8.0-windows\FilmoviZaglaviq.pdb
+C:\FilmoviZaglaviq\FilmoviZaglaviq\obj\Debug\net8.0-windows\FilmoviZaglaviq.genruntimeconfig.cache
+C:\FilmoviZaglaviq\FilmoviZaglaviq\obj\Debug\net8.0-windows\ref\FilmoviZaglaviq.dll
